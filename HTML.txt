@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Google Font  -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <!-- Font Wesome  -->
+    <link rel="stylesheet" href="css/all.min.css">
+    <!-- Render All File Normaly  -->
+    <link rel="stylesheet" href="css/normalize.css">
+    <!-- Main File CSS  -->
+    <link rel="stylesheet" href="css/style.css">
+    <title>onix-digital</title>
+</head>
+
+<body>
+    <!-- Start Header  -->
+    <div class="header">
+        <div class="container">
+            <div class="img-logo">
+                <img src="images/logo.png" alt="">
+            </div>
+            <i class="fas fa-bars"></i>
+            <ul>
+                <li>Home</li>
+                <li>Services</li>
+                <li>About</li>
+                <li>Portfolio</li>
+                <li>Videos</li>
+                <li>Contact Us</li>
+            </ul>
+            <a href="#" class="link-head">Contact Us Now</a>
+        </div>
+    </div>
+    <!-- End Header  -->
+
+    <!-- Start Baner  -->
+    <div class="baner">
+        <div class="container">
+            <div class="text">
+                <h3>Welcome to onix digital</h3>
+                <h1>
+                    Build <span class="blue">Your website</span> <br>
+                    the best in <span class="red">seo?</span>
+                </h1>
+                <p>
+                    This is a professional looking HTML Bootstrap 5 website template brought to you by TemplateMo website.
+                </p>
+                <a href="#">Message Us Now</a>
+                <i class="fa fa-phone"></i>
+                <span class="number-phone">00972 59 4465 309</span>
+            </div>
+            <div class="img-baner">
+                <img src="images/banner-right-image.png" alt="">
+            </div>
+        </div>
+    </div>
+    <!-- End Baner  -->
+
+    <!-- Start Services  -->
+    <div class="services">
+        <div class="container">
+            <h2>We <span class="blue">Provide</span> The Best <br> Service With <span class="red">Our Tools</span> <br> 
+            <span class="opacity">OUR SERVICES</span></h2>
+            
+            <div class="content">
+                <div class="item">
+                    <h4>Optimizing Speed for your web pages</h4>
+                    <img src="images/service-icon-01.png" alt="">
+                    <p>Get to know more about the topic in details</p>
+                </div>
+                <div class="item">
+                    <h4>See The Strategy In The Market</h4>
+                    <img src="images/service-icon-02.png" alt="">
+                    <p>Get to know more about the topic in details</p>
+                </div>
+                <div class="item">
+                    <h4>Accessibility for mobile viewing</h4>
+                    <img src="images/service-icon-03.png" alt="">
+                    <p>Get to know more about the topic in details</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Services  -->
+
+    <!-- Start About  -->
+    <div class="about">
+        <div class="container">
+            <div class="img-about">
+                <img src="images/about-left-image.png" alt="">
+            </div>
+            <div class="text">
+                <h2>Grow Your Website With Our <br> <span class="blue">SEO</span> <span class="red">Tools</span> & Project <br> Management</h2>
+
+                <p>
+                    You can browse free HTML templates on Too CSS website. Visit the website and explore latest website templates for your projects.
+                </p>
+                <div class="content-icon">
+                    <div class="icon">
+                        <img src="images/service-icon-01.png" alt="">
+                        <h1>410</h1>
+                        <span class="desc-about">SEO Project</span>
+                        <p>
+                            Lorem ipsum dolor sitti amet, consectetur.
+                        </p>
+                    </div>
+        
+                    <div class="icon">
+                        <img src="images/service-icon-02.png" alt="">
+                        <h1>320</h1>
+                        <span class="desc-about">SEO Project</span>
+                        <p>
+                            Lorem ipsum dolor sitti amet, consectetur.
+                        </p>
+                    </div>
+        
+                    <div class="icon">
+                        <img src="images/service-icon-03.png" alt="">
+                        <h1>750</h1>
+                        <span class="desc-about">SEO Project</span>
+                        <p>
+                            Lorem ipsum dolor sitti amet, consectetur.
+                        </p>
+                    </div>
+        
+                </div>
+               
+            </div>
+        </div>
+    </div>
+    <!-- End About  -->
+
+    <!-- Start Prtoflio  -->
+    <div class="porftolio">
+        <div class="container">
+            <h2>Our Recent <span class="blue">Projects </span> & Case <br> Studies  <span class="red">For Clients</span> <br> 
+            <span class="opacity">OUR PORTFOLIO </span></h2>
+            <div class="content">
+                <div class="box">
+                    <div class="img-box one">
+                        <div class="hover-img">
+                            <img src="images/hover-bg.png" alt="">
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="img-box two">
+                        <div class="hover-img">
+                            <img src="images/hover-bg.png" alt="">
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="img-box three">
+                        <div class="hover-img">
+                            <img src="images/hover-bg.png" alt="">
+                        </div>
+                    </div>
+                </div>
+        
+            </div>
+        </div>
+    </div>
+    <!-- End Prtoflio  -->
+
+    <!-- Start Plans  -->
+    <div class="plans">
+        <div class="container">
+            <h2>Select A Suitable  <span class="blue">Plan  </span> For <br>Your Next <span class="red">Projects</span> <br> 
+            <span class="opacity">OUR PLANS</span></h2>
+            <div class="content-plan">
+                <div class="box-plan">
+                    <div class="img-plan">
+                        <img src="images/first-plan-bg.png" alt="">
+                        <div class="info-plan">
+                            <h3>Starter Plan </h3>
+                            <span><del>$160/mo </del></span>
+                            <h1>$140</h1>
+                            <ul>
+                                <li>10 Projects</li>
+                                <li>100 GB Space</li>
+                                <li>20 SEO Checkups</li>
+                                <li>Basic Support</li>
+                            </ul>
+                            <a href="#">Get Started</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="box-plan">
+                    <div class="img-plan">
+                        <img src="images/second-plan-bg.png" alt="">
+                        <div class="info-plan">
+                            <h3>Standard Plan  </h3>
+                            <span><del>$240/mo </del></span>
+                            <h1>$200</h1>
+                            <ul>
+                                <li>20 Projects</li>
+                                <li>200 GB Space</li>
+                                <li>50 SEO Checkups</li>
+                                <li>Pro Support</li>
+                            </ul>
+                            <a href="#">Get Started</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="box-plan">
+                    <div class="img-plan">
+                        <img src="images/third-plan-bg.png" alt="">
+                        <div class="info-plan">
+                            <h3>Advanced Plan </h3>
+                            <span><del>$360/mo </del></span>
+                            <h1>$280</h1>
+                            <ul>
+                                <li>30 Projects</li>
+                                <li>300 GB Space</li>
+                                <li>100 SEO Checkups</li>
+                                <li>Best Support</li>
+                            </ul>
+                            <a href="#">Get Started</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Plans  -->
+
+    <!-- Start Subscribe  -->
+    <div class="subsrcibe">
+        <div class="container">
+            <div class="backgound-sub">
+                <div class="img-fly">
+                    <img src="images/subscribe-dec.png" alt="">
+                </div>
+                <div class="info-sub">
+                    <h2>Know Your Website SEO Score By Email</h2>
+                    <div class="input-feild">
+                        <input type="url" name="" id="" placeholder="Your Website URL">
+                        <input type="email" name="" id="" placeholder="Your Email">
+                        <a href="#">Subscribe</a>
+                    </div>
+                </div>   
+            </div>
+        </div>
+    </div>
+    <!-- End Subscribe  -->
+
+    <!-- Start Contact  -->
+    <div class="contect">
+        <div class="container">
+            <div class="content-contact">
+                <div class="item-contact">
+                    <div class="map">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3407.4436646719973!2d34.294762405526996!3d31.346734056845566!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sar!2s!4v1630311884187!5m2!1sar!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                    </div>
+                    <div class="phone-contact">
+                        <i class="fa fa-phone"></i>
+                        <span class="span-contact">00972 59 4465 309</span>
+                        <i class="fa fa-envelope"></i>
+                        <span class="envelope"><a href="mailto:mhmdznabrees@gmail.com">mhmdznabrees@gmail.com</a></span>
+                    </div>
+
+                </div>
+
+                <div class="item-contact">
+                    <div class="background-contact">
+                        <div class="input-contact">
+                            <input type="text" name="" id="" class="name" placeholder="Name">
+                            <input type="password" name="" id="" class="pass" placeholder="Password">
+                            <input type="email" name="" id="" class="mail" placeholder="Your Email">
+                            <input type="url" name="" id="" class="url-contact" placeholder="Your Website URL">
+                            <input type="submit" value="Submit Requset">
+                        </div>
+                    </div>
+                </div>
+           
+            </div>
+          
+        </div>
+    </div>
+    <!-- End Contact  -->
+
+    <!-- Start Footer  -->
+    <div class="footer">
+        <div class="container">
+            <div class="content-footer">
+                <div class="item-footer">
+                    <img src="images/logo.png" alt="">
+                    <a href="mailto:mhmdznabrees@gmail.com">mhmdznabrees@gmail.com</a>
+                    <ul class="ul-icon">
+                        <li class="li-icon"><i class="fab fa-facebook"></i></li>
+                        <li  class="li-icon"><i class="fab fa-twitter"></i></li>
+                        <li  class="li-icon"><i class="fab fa-behance"></i></li>
+                        <li  class="li-icon"><i class="fab fa-instagram"></i></li>
+                    </ul>
+                </div>
+                <div class="item-footer">
+                    <ul>
+                        <li><h3>Services</h3></li>
+                        <li>SEO Developer</li>
+                        <li>Business Growth</li>
+                        <li>Social Media Managment</li>
+                        <li>Website Optimization</li>
+                    </ul>
+                </div>
+                <div class="item-footer">
+                    <ul>
+                        <li><h3>Community</h3></li>
+                        <li>Digital Marketing</li>
+                        <li>Business Ideas</li>
+                        <li>Website Checkup</li>
+                        <li>Page Speed Test</li>
+                    </ul>
+                </div>
+                <div class="item-footer">
+                    <ul>
+                        <li><h3>Subscribe Newsletters</h3></li>
+                        <li>Get our latest news and ideas to</li>
+                        <li>your inbox</li>
+                        <li><input placeholder="Your Email" type="email" name="" id="" class="mail-footer"></li>
+                    </ul>
+                </div>
+            </div>
+            <hr>
+            <p>
+                Copyright © 2021 Onix Digital Co., Ltd. All Rights Reserved.
+                Designed by <span>Mhmd Zahir </span>     
+            </p>
+        </div>
+    </div>
+    <!-- End Footer  -->
+    
+</body>
+</html>
